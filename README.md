@@ -237,7 +237,7 @@ Proyek ini dibuat untuk submission Dicoding Flutter Expert.
 
 ## Author
 
-[Your Name]
+Teo Prayoga
 
 ## Catatan
 
